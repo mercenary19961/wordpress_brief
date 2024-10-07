@@ -1,2 +1,2 @@
 # wordpress_brief
-diva website
+diva website on the local machine, can be implemented on a host service website like hostinger
